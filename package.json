@@ -1,0 +1,21 @@
+{
+  "name": "macaca-nodejs-template",
+  "version": "1.0.0",
+  "description": "Macaca template porject for Node.js",
+  "keywords": [
+    "macaca",
+    "template"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/macaca-sample/macaca-nodejs-template.git"
+  },
+  "dependencies": {
+    "macaca-utils": "^0.1.8"
+  },
+  "devDependencies": {
+    "macaca-cli": "^1.1.0",
+    "macaca-wd": "~1.0.0"
+  },
+  "license": "MIT"
+}
